@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **shivansh0539@gmail.com**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shivansh-sharma-7711a0241/**
-- 
+- 📫 Linkedin **https://www.linkedin.com/in/shivansh-sharma-7711a0241/**
+  
 - ⚡ Fun fact **I think I am curious.**
 
 <h3 align="left">Connect with me:</h3>
