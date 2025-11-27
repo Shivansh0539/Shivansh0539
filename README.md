@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/shivansh0539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh0539" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh sharma" height="30" width="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
